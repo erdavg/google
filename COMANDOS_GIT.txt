@@ -1,0 +1,25 @@
+## COMANDOS DE GITHUB
+
+git config --global user.email erdavgx@gmail.com <- para actualizar datos de correo y usurio
+git config --global user.name erdavg
+
+git init <- reinializar repositorio existente en Git
+
+git branch -M main <-  para establecer como rama principal 
+
+git add . <- para subir lo que no esta trackeado (actualizado)
+
+git commit -m "se actualizó" <- para poner comentarios 
+
+git push --set-upstream origin main <- si es la primera vez que se sube algo al repositorio
+
+git push <- para subirlo al repositorio del perfil de github
+
+dir <- para ver los archivos que hay en el directorio
+
+cd <- ejemplo cd C:/Users/erdav/Documents/Rstudio <- para establecer el directorio interno
+
+git remote -v <-para ver en que repositorio nos encontramos en el perfil de github
+
+
+
