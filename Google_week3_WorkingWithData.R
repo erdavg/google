@@ -1,7 +1,4 @@
-### ACTUALIZACION DE GOOLGLE 20/06/2023 10:53 am llll
-### Trabajando en un nuevo proyecto
-##NUEVO CAMBIO
-###cambio
+### ACTUALIZACION DE GOOLGLE 20/06/2023 12:32
 
 ###nuevo nuevo
 library("tidyverse")
